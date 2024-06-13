@@ -14,7 +14,7 @@ The project leverages STM32CubeMX for graphical rapid configuration of the STM32
 ## Getting Started
 
 Official Tutorial
-1. Use STM32CubeMX in MDK Projects(https://www.keil.com/pack/doc/STM32Cube/html/cubemx_using.html)
+1. [Use STM32CubeMX in MDK Projects](https://www.keil.com/pack/doc/STM32Cube/html/cubemx_using.html)
 
 For individuals new to this type of development, aside from various online resources, Robomaster provides detailed guidance on using Keil µVision 5 IDE:
 1. Running your first piece of code, exemplified by the [“RoboMaster M2006 Power System DEMO Example Program”](https://github.com/ntu-hci-lab/SpinShot/blob/main/Firmware/Robomaster_M2006_Power_System_Demo_Example_Program.pdf) (available only in Chinese).
