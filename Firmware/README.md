@@ -14,7 +14,7 @@ The project leverages STM32CubeMX for graphical rapid configuration of the STM32
 ## Getting Started
 
 For individuals new to this type of development, aside from various online resources, Robomaster provides detailed guidance on using Keil µVision 5 IDE:
-1. Running your first piece of code, exemplified by the [“RoboMaster M2006 Power System DEMO Example Program”](https://github.com/ntu-hci-lab/SpinShot/blob/main/Firmware/RobomasterM2006PowerSystemDemoExampleProgram.pdf) (available only in Chinese).
+1. Running your first piece of code, exemplified by the [“RoboMaster M2006 Power System DEMO Example Program”](https://github.com/ntu-hci-lab/SpinShot/blob/main/Firmware/Robomaster_M2006_Power_System_Demo_Example_Program.pdf) (available only in Chinese).
 2. Robomaster Board C Examples available at [Robomaster Development Board C Examples](https://github.com/RoboMaster/Development-Board-C-Examples/tree/master)
 
 ## Important Notes
