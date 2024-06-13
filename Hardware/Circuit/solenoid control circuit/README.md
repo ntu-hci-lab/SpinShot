@@ -5,3 +5,8 @@ By incorporating a Mosfet, we can control the activation of the 24V power using 
 
 The circuit can be placed just nearby the control board.
 
+The circuit is very simple:
+![circuit_diagram](https://github.com/ntu-hci-lab/SpinShot/blob/main/Hardware/Circuit/solenoid%20control%20circuit/Circuit_Diagram.png)
+
+And can be implement in a very small space:
+![circuit_diagram](https://github.com/ntu-hci-lab/SpinShot/blob/main/Hardware/Circuit/solenoid%20control%20circuit/Implementation.png)
