@@ -9,6 +9,9 @@ This repository contains the control code for the SpinShot STM32 microcontroller
 
 ## Development Environment
 
+1. STM32CubeMX
+2. Keil µVision IDE
+
 The project leverages STM32CubeMX for graphical rapid configuration of the STM32 chip, automatically generating C code compatible with Keil µVision IDE. The development process involves writing code in Keil µVision 5 IDE and subsequently using an STLink to flash the compiled files onto the control board.
 
 ## Getting Started
