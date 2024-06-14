@@ -23,4 +23,4 @@ For individuals new to this type of development, aside from various online resou
 
 ## Notes
 
-To open the STM32Cube project, use the `SpinShot.ioc` file. To access the Keil project, open the `MDK_ARM/SpinShot.uvprojx` file.
+To open the STM32Cube project, use the `./SpinShot_STM32/SpinShot.ioc` file. To access the Keil project, open the `./SpinShot_STM32/MDK_ARM/SpinShot.uvprojx` file.
