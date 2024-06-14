@@ -18,7 +18,7 @@ Here is how the circuit looks when implemented in a small space:<br>
 ![Implementation Photo](https://github.com/ntu-hci-lab/SpinShot/blob/main/Hardware/Circuit/solenoid%20control%20circuit/Implementation_Photo.png)
 
 ### Circuit Placement
-The circuit is strategically placed near the control board for optimal performance and ease of access. See the placement here:<br>
+The circuit was placed near the control board:<br>
 ![Circuit Placement](https://github.com/ntu-hci-lab/SpinShot/blob/main/Hardware/Circuit/solenoid%20control%20circuit/Circuit_Placement.png)
 
 This integration not only enables the functionality of the KK-0530B but also ensures that the setup remains compact and efficient.
