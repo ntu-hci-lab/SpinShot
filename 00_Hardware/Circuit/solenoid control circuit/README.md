@@ -11,14 +11,20 @@ The design of the circuit is straightforward and occupies minimal space, making 
 
 ### Circuit Diagram
 View the schematic of the circuit we used here:<br>
-![Circuit Diagram](https://github.com/ntu-hci-lab/SpinShot/blob/main/00_Hardware/Circuit/solenoid%20control%20circuit/Circuit_Diagram.png)
+<div style="background-color: white; width: 100%; text-align: center;">
+    <img src="Circuit_Diagram.png" style="width: 60%;">
+</div>
 
 ### Implementation Photo
-Here is how the circuit looks when implemented in a small space:<br>
-![Implementation Photo](https://github.com/ntu-hci-lab/SpinShot/blob/main/00_Hardware/Circuit/solenoid%20control%20circuit/Implementation_Photo.png)
+Here is how the circuit looks when implemented in a small space:<be>
+<div style="background-color: white; text-align: center;">
+    <img src="Implementation_Photo.png" style="width: 60%;">
+</div>
 
 ### Circuit Placement
-The circuit was placed near the control board:<br>
-![Circuit Placement](https://github.com/ntu-hci-lab/SpinShot/blob/main/00_Hardware/Circuit/solenoid%20control%20circuit/Circuit_Placement.png)
+The circuit was placed near the control board:<be>
+<div style="background-color: white; text-align: center;">
+    <img src="Circuit_Placement.png" style="width: 60%;">
+</div>
 
 This integration not only enables the functionality of the KK-0530B but also ensures that the setup remains compact and efficient.
